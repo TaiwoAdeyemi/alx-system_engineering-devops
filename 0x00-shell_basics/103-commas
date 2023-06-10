@@ -1,2 +1,2 @@
 #!/bin/bash
-lsf -m="ls -p | grep -v / | tr '\n' ' '"
+ls -1p | grep -v / | xargs echo | sed 's/ /,/g'
