@@ -1,2 +1,2 @@
 #!/bin/bash
-tree -mindepth -d 1 | tail -1
+find .vim/ -mindepth 1 -type d | wc -l
