@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l .vim | grep -c 
+ls -l ./ | grep -c 
