@@ -1,4 +1,2 @@
 #!/bin/bash
-string="a-Z"
-final=${string//Ac/Ze}
-echo $final
+tr Ac Ze
