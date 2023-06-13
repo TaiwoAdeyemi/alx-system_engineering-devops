@@ -1,1 +1,1 @@
-variables and expansion
+Shell, init files, variables and expansions
