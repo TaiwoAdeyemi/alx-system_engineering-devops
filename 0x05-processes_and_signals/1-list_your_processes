@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# displays a lift of currently running processess.
+# displays a lift of currently running processes.
 
 ps auxf
